@@ -1,2 +1,4 @@
 MuestrasComunes/DoS/CIC_comunes.csv filter=lfs diff=lfs merge=lfs -text
 MuestrasComunes/DoS/Nemea_comunes.csv filter=lfs diff=lfs merge=lfs -text
+MuestrasComunes/Recon/CIC_comunes.csv filter=lfs diff=lfs merge=lfs -text
+MuestrasComunes/Recon/Nemea_comunes.csv filter=lfs diff=lfs merge=lfs -text
