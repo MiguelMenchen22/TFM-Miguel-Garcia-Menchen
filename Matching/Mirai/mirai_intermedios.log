@@ -1,0 +1,1818 @@
+╔══════════════════════════════════════════════════════════╗
+║  MIRAI COMPLETO — 76 pcaps (recortados a 40s)            ║
+║  greeth_flood (0-28) + udpplain (0-24) + greip (0-21)    ║
+╚══════════════════════════════════════════════════════════╝
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 16:19:00,107475
+  → Inicio: 2023-01-12 16:19:00.107475
+  → Fin:    2023-01-12 16:19:40.107475
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_16_19.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_floodTCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_floodUDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood1
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 16:37:06,823872
+  → Inicio: 2023-01-12 16:37:06.823872
+  → Fin:    2023-01-12 16:37:46.823872
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood1_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_16_37.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood1_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood1_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood1TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood1UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood1 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood2
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 17:11:14,411851
+  → Inicio: 2023-01-12 17:11:14.411851
+  → Fin:    2023-01-12 17:11:54.411851
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood2_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_17_11.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood2_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood2_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood2TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood2UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood2 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood3
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 17:32:45,593955
+  → Inicio: 2023-01-12 17:32:45.593955
+  → Fin:    2023-01-12 17:33:25.593955
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood3_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_17_32.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood3_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood3_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood3TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood3UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood3 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood4
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 17:51:32,229084
+  → Inicio: 2023-01-12 17:51:32.229084
+  → Fin:    2023-01-12 17:52:12.229084
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood4_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_17_51.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood4_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood4_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood4TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood4UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood4 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood5
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 18:24:14,853598
+  → Inicio: 2023-01-12 18:24:14.853598
+  → Fin:    2023-01-12 18:24:54.853598
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood5_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_18_24.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood5_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood5_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood5TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood5UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood5 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood6
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 18:43:59,417763
+  → Inicio: 2023-01-12 18:43:59.417763
+  → Fin:    2023-01-12 18:44:39.417763
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood6_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_18_43.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood6_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood6_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood6TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood6UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood6 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood7
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 19:13:20,307230
+  → Inicio: 2023-01-12 19:13:20.307230
+  → Fin:    2023-01-12 19:14:00.307230
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood7_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_19_13.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood7_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood7_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood7TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood7UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood7 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood8
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 19:40:58,315382
+  → Inicio: 2023-01-12 19:40:58.315382
+  → Fin:    2023-01-12 19:41:38.315382
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood8_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_19_40.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood8_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood8_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood8TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood8UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood8 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood9
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 19:57:08,520684
+  → Inicio: 2023-01-12 19:57:08.520684
+  → Fin:    2023-01-12 19:57:48.520684
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood9_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_19_57.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood9_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood9_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood9TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood9UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood9 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood10
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-12 20:42:21,599354
+  → Inicio: 2023-01-12 20:42:21.599354
+  → Fin:    2023-01-12 20:43:01.599354
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood10_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_12_20_42.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood10_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood10_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood10TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood10UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood10 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood11
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-13 15:50:40,724710
+  → Inicio: 2023-01-13 15:50:40.724710
+  → Fin:    2023-01-13 15:51:20.724710
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood11_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_13_15_50.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood11_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood11_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood11TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood11UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood11 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood12
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-13 16:32:07,840880
+  → Inicio: 2023-01-13 16:32:07.840880
+  → Fin:    2023-01-13 16:32:47.840880
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood12_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_13_16_32.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood12_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood12_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood12TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood12UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood12 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood13
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-13 17:21:20,274802
+  → Inicio: 2023-01-13 17:21:20.274802
+  → Fin:    2023-01-13 17:22:00.274802
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood13_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_13_17_21.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood13_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood13_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood13TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood13UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood13 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood14
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-13 18:15:56,904962
+  → Inicio: 2023-01-13 18:15:56.904962
+  → Fin:    2023-01-13 18:16:36.904962
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood14_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_13_18_15.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood14_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood14_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood14TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood14UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood14 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood15
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-13 18:34:30,464209
+  → Inicio: 2023-01-13 18:34:30.464209
+  → Fin:    2023-01-13 18:35:10.464209
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood15_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_13_18_34.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood15_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood15_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood15TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood15UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood15 completado
+  ⚠ No encontrado: /media/miguel/Pen Miguel/Mirai/Mirai_greeth_flood/Mirai-greeth_flood16.pcap — saltando
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood17
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-16 14:44:34,710628
+  → Inicio: 2023-01-16 14:44:34.710628
+  → Fin:    2023-01-16 14:45:14.710628
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood17_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_16_14_44.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood17_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood17_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood17TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood17UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood17 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood18
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-16 15:03:24,907728
+  → Inicio: 2023-01-16 15:03:24.907728
+  → Fin:    2023-01-16 15:04:04.907728
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood18_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_16_15_03.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood18_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood18_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood18TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood18UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood18 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood19
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-16 15:22:37,230063
+  → Inicio: 2023-01-16 15:22:37.230063
+  → Fin:    2023-01-16 15:23:17.230063
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood19_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_16_15_22.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood19_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood19_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood19TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood19UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood19 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood20
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-16 15:38:48,630704
+  → Inicio: 2023-01-16 15:38:48.630704
+  → Fin:    2023-01-16 15:39:28.630704
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood20_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_16_15_38.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood20_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood20_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood20TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood20UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood20 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood21
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-16 16:02:54,560700
+  → Inicio: 2023-01-16 16:02:54.560700
+  → Fin:    2023-01-16 16:03:34.560700
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood21_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_16_16_02.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood21_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood21_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood21TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood21UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood21 completado
+  ⚠ No encontrado: /media/miguel/Pen Miguel/Mirai/Mirai_greeth_flood/Mirai-greeth_flood22.pcap — saltando
+  ⚠ No encontrado: /media/miguel/Pen Miguel/Mirai/Mirai_greeth_flood/Mirai-greeth_flood23.pcap — saltando
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood24
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-17 16:56:48,675134
+  → Inicio: 2023-01-17 16:56:48.675134
+  → Fin:    2023-01-17 16:57:28.675134
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood24_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_17_16_56.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood24_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood24_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood24TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood24UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood24 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood25
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-17 17:12:48,678997
+  → Inicio: 2023-01-17 17:12:48.678997
+  → Fin:    2023-01-17 17:13:28.678997
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood25_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_17_17_12.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood25_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood25_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood25TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood25UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood25 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood26
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-18 14:17:12,350859
+  → Inicio: 2023-01-18 14:17:12.350859
+  → Fin:    2023-01-18 14:17:52.350859
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood26_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_18_14_17.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood26_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood26_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood26TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood26UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood26 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood27
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-18 15:44:13,467002
+  → Inicio: 2023-01-18 15:44:13.467002
+  → Fin:    2023-01-18 15:44:53.467002
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood27_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_18_15_44.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood27_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood27_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood27TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood27UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood27 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greeth_flood28
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-18 16:18:29,934322
+  → Inicio: 2023-01-18 16:18:29.934322
+  → Fin:    2023-01-18 16:19:09.934322
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greeth_flood28_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_18_16_18.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greeth_flood28_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greeth_flood28_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood28TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greeth_flood28UDP_v2.txt
+
+  ✓✓ Mirai-greeth_flood28 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-19 16:51:00,595065
+  → Inicio: 2023-01-19 16:51:00.595065
+  → Fin:    2023-01-19 16:51:40.595065
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_19_16_51.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplainTCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplainUDP_v2.txt
+
+  ✓✓ Mirai-udpplain completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain1
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-19 17:23:26,574571
+  → Inicio: 2023-01-19 17:23:26.574571
+  → Fin:    2023-01-19 17:24:06.574571
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain1_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_19_17_23.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain1_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain1_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain1TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain1UDP_v2.txt
+
+  ✓✓ Mirai-udpplain1 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain2
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-19 17:53:57,185812
+  → Inicio: 2023-01-19 17:53:57.185812
+  → Fin:    2023-01-19 17:54:37.185812
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain2_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_19_17_53.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain2_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain2_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain2TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain2UDP_v2.txt
+
+  ✓✓ Mirai-udpplain2 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain3
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-20 16:37:59,533800
+  → Inicio: 2023-01-20 16:37:59.533800
+  → Fin:    2023-01-20 16:38:39.533800
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain3_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_20_16_37.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain3_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain3_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain3TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain3UDP_v2.txt
+
+  ✓✓ Mirai-udpplain3 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain4
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-31 16:33:18,318532
+  → Inicio: 2023-01-31 16:33:18.318532
+  → Fin:    2023-01-31 16:33:58.318532
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain4_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_31_16_33.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain4_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain4_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain4TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain4UDP_v2.txt
+
+  ✓✓ Mirai-udpplain4 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain5
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-31 17:05:10,224930
+  → Inicio: 2023-01-31 17:05:10.224930
+  → Fin:    2023-01-31 17:05:50.224930
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain5_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_31_17_05.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain5_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain5_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain5TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain5UDP_v2.txt
+
+  ✓✓ Mirai-udpplain5 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain6
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-31 17:44:47,461643
+  → Inicio: 2023-01-31 17:44:47.461643
+  → Fin:    2023-01-31 17:45:27.461643
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain6_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_31_17_44.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain6_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain6_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain6TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain6UDP_v2.txt
+
+  ✓✓ Mirai-udpplain6 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain7
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-31 18:24:45,684123
+  → Inicio: 2023-01-31 18:24:45.684123
+  → Fin:    2023-01-31 18:25:25.684123
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain7_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_31_18_24.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain7_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain7_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain7TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain7UDP_v2.txt
+
+  ✓✓ Mirai-udpplain7 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain8
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-01 14:41:06,618060
+  → Inicio: 2023-02-01 14:41:06.618060
+  → Fin:    2023-02-01 14:41:46.618060
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain8_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_01_14_41.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain8_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain8_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain8TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain8UDP_v2.txt
+
+  ✓✓ Mirai-udpplain8 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain9
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-01 15:15:45,117178
+  → Inicio: 2023-02-01 15:15:45.117178
+  → Fin:    2023-02-01 15:16:25.117178
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain9_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_01_15_15.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain9_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain9_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain9TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain9UDP_v2.txt
+
+  ✓✓ Mirai-udpplain9 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain10
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-01 16:44:06,871095
+  → Inicio: 2023-02-01 16:44:06.871095
+  → Fin:    2023-02-01 16:44:46.871095
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain10_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_01_16_44.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain10_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain10_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain10TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain10UDP_v2.txt
+
+  ✓✓ Mirai-udpplain10 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain11
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-02 15:33:25,061464
+  → Inicio: 2023-02-02 15:33:25.061464
+  → Fin:    2023-02-02 15:34:05.061464
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain11_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_02_15_33.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain11_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain11_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain11TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain11UDP_v2.txt
+
+  ✓✓ Mirai-udpplain11 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain12
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-02 15:57:39,268249
+  → Inicio: 2023-02-02 15:57:39.268249
+  → Fin:    2023-02-02 15:58:19.268249
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain12_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_02_15_57.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain12_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain12_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain12TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain12UDP_v2.txt
+
+  ✓✓ Mirai-udpplain12 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain13
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-02 16:17:47,277662
+  → Inicio: 2023-02-02 16:17:47.277662
+  → Fin:    2023-02-02 16:18:27.277662
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain13_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_02_16_17.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain13_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain13_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain13TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain13UDP_v2.txt
+
+  ✓✓ Mirai-udpplain13 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain14
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-06 14:42:30,901843
+  → Inicio: 2023-02-06 14:42:30.901843
+  → Fin:    2023-02-06 14:43:10.901843
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain14_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_06_14_42.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain14_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain14_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain14TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain14UDP_v2.txt
+
+  ✓✓ Mirai-udpplain14 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain15
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-06 15:06:20,119606
+  → Inicio: 2023-02-06 15:06:20.119606
+  → Fin:    2023-02-06 15:07:00.119606
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain15_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_06_15_06.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain15_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain15_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain15TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain15UDP_v2.txt
+
+  ✓✓ Mirai-udpplain15 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain16
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-06 15:26:41,547898
+  → Inicio: 2023-02-06 15:26:41.547898
+  → Fin:    2023-02-06 15:27:21.547898
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain16_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_06_15_26.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain16_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain16_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain16TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain16UDP_v2.txt
+
+  ✓✓ Mirai-udpplain16 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain17
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-06 16:01:47,220109
+  → Inicio: 2023-02-06 16:01:47.220109
+  → Fin:    2023-02-06 16:02:27.220109
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain17_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_06_16_01.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain17_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain17_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain17TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain17UDP_v2.txt
+
+  ✓✓ Mirai-udpplain17 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain18
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-06 16:28:22,701362
+  → Inicio: 2023-02-06 16:28:22.701362
+  → Fin:    2023-02-06 16:29:02.701362
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain18_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_06_16_28.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain18_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain18_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain18TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain18UDP_v2.txt
+
+  ✓✓ Mirai-udpplain18 completado
+  ⚠ No encontrado: /media/miguel/Pen Miguel/Mirai/Mirai_udpplain/Mirai-udpplain19.pcap — saltando
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain20
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-07 15:18:01,350370
+  → Inicio: 2023-02-07 15:18:01.350370
+  → Fin:    2023-02-07 15:18:41.350370
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain20_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_07_15_18.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain20_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain20_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain20TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain20UDP_v2.txt
+
+  ✓✓ Mirai-udpplain20 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain21
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-07 15:42:38,947968
+  → Inicio: 2023-02-07 15:42:38.947968
+  → Fin:    2023-02-07 15:43:18.947968
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain21_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_07_15_42.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain21_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain21_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain21TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain21UDP_v2.txt
+
+  ✓✓ Mirai-udpplain21 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain22
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-07 16:19:33,146922
+  → Inicio: 2023-02-07 16:19:33.146922
+  → Fin:    2023-02-07 16:20:13.146922
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain22_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_07_16_19.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain22_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain22_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain22TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain22UDP_v2.txt
+
+  ✓✓ Mirai-udpplain22 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain23
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-07 17:03:05,275677
+  → Inicio: 2023-02-07 17:03:05.275677
+  → Fin:    2023-02-07 17:03:45.275677
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain23_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_07_17_03.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain23_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain23_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain23TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain23UDP_v2.txt
+
+  ✓✓ Mirai-udpplain23 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-udpplain24
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-02-07 17:23:57,789760
+  → Inicio: 2023-02-07 17:23:57.789760
+  → Fin:    2023-02-07 17:24:37.789760
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-udpplain24_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_02_07_17_23.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-udpplain24_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-udpplain24_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain24TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-udpplain24UDP_v2.txt
+
+  ✓✓ Mirai-udpplain24 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-19 17:23:00,400742
+  → Inicio: 2022-12-19 17:23:00.400742
+  → Fin:    2022-12-19 17:23:40.400742
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_19_17_23.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_floodTCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_floodUDP_v2.txt
+
+  ✓✓ Mirai-greip_flood completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood1
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-19 20:10:09,480706
+  → Inicio: 2022-12-19 20:10:09.480706
+  → Fin:    2022-12-19 20:10:49.480706
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood1_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_19_20_10.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood1_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood1_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood1TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood1UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood1 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood2
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-19 20:48:51,533507
+  → Inicio: 2022-12-19 20:48:51.533507
+  → Fin:    2022-12-19 20:49:31.533507
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood2_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_19_20_48.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood2_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood2_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood2TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood2UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood2 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood3
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-19 21:12:35,030325
+  → Inicio: 2022-12-19 21:12:35.030325
+  → Fin:    2022-12-19 21:13:15.030325
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood3_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_19_21_12.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood3_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood3_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood3TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood3UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood3 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood4
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-19 21:59:49,088821
+  → Inicio: 2022-12-19 21:59:49.088821
+  → Fin:    2022-12-19 22:00:29.088821
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood4_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_19_21_59.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood4_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood4_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood4TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood4UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood4 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood5
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-21 15:54:23,005743
+  → Inicio: 2022-12-21 15:54:23.005743
+  → Fin:    2022-12-21 15:55:03.005743
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood5_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_21_15_54.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood5_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood5_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood5TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood5UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood5 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood6
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-21 16:33:13,897234
+  → Inicio: 2022-12-21 16:33:13.897234
+  → Fin:    2022-12-21 16:33:53.897234
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood6_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_21_16_33.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood6_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood6_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood6TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood6UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood6 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood7
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-22 15:42:49,887409
+  → Inicio: 2022-12-22 15:42:49.887409
+  → Fin:    2022-12-22 15:43:29.887409
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood7_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_22_15_42.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood7_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood7_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood7TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood7UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood7 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood8
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2022-12-22 16:41:30,325565
+  → Inicio: 2022-12-22 16:41:30.325565
+  → Fin:    2022-12-22 16:42:10.325565
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood8_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2022_12_22_16_41.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood8_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood8_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood8TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood8UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood8 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood9
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-05 15:42:45,763194
+  → Inicio: 2023-01-05 15:42:45.763194
+  → Fin:    2023-01-05 15:43:25.763194
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood9_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_05_15_42.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood9_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood9_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood9TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood9UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood9 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood10
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-05 16:24:21,715896
+  → Inicio: 2023-01-05 16:24:21.715896
+  → Fin:    2023-01-05 16:25:01.715896
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood10_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_05_16_24.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood10_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood10_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood10TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood10UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood10 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood11
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-05 17:13:35,164812
+  → Inicio: 2023-01-05 17:13:35.164812
+  → Fin:    2023-01-05 17:14:15.164812
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood11_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_05_17_13.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood11_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood11_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood11TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood11UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood11 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood12
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-05 19:01:13,528898
+  → Inicio: 2023-01-05 19:01:13.528898
+  → Fin:    2023-01-05 19:01:53.528898
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood12_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_05_19_01.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood12_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood12_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood12TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood12UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood12 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood13
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-05 20:08:07,643588
+  → Inicio: 2023-01-05 20:08:07.643588
+  → Fin:    2023-01-05 20:08:47.643588
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood13_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_05_20_08.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood13_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood13_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood13TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood13UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood13 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood14
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-05 20:48:50,723658
+  → Inicio: 2023-01-05 20:48:50.723658
+  → Fin:    2023-01-05 20:49:30.723658
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood14_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_05_20_48.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood14_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood14_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood14TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood14UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood14 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood15
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-06 15:38:30,972391
+  → Inicio: 2023-01-06 15:38:30.972391
+  → Fin:    2023-01-06 15:39:10.972391
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood15_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_06_15_38.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood15_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood15_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood15TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood15UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood15 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood16
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-06 16:10:07,869566
+  → Inicio: 2023-01-06 16:10:07.869566
+  → Fin:    2023-01-06 16:10:47.869566
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood16_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_06_16_10.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood16_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood16_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood16TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood16UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood16 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood17
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-06 16:30:37,023239
+  → Inicio: 2023-01-06 16:30:37.023239
+  → Fin:    2023-01-06 16:31:17.023239
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood17_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_06_16_30.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood17_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood17_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood17TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood17UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood17 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood18
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-06 17:44:28,071559
+  → Inicio: 2023-01-06 17:44:28.071559
+  → Fin:    2023-01-06 17:45:08.071559
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood18_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_06_17_44.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood18_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood18_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood18TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood18UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood18 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood19
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-09 14:25:09,959732
+  → Inicio: 2023-01-09 14:25:09.959732
+  → Fin:    2023-01-09 14:25:49.959732
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood19_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_09_14_25.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood19_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood19_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood19TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood19UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood19 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood20
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-09 15:16:30,889390
+  → Inicio: 2023-01-09 15:16:30.889390
+  → Fin:    2023-01-09 15:17:10.889390
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood20_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_09_15_16.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood20_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood20_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood20TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood20UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood20 completado
+
+════════════════════════════════════════════════════════
+  Procesando: Mirai-greip_flood21
+════════════════════════════════════════════════════════
+
+  [1/5] capinfos → buscando timestamp de inicio...
+  → Inicio detectado: 2023-01-09 16:20:33,928052
+  → Inicio: 2023-01-09 16:20:33.928052
+  → Fin:    2023-01-09 16:21:13.928052
+
+  [2/5] editcap → recortando a 40 segundos...
+  ✓ → /media/miguel/Pen Miguel/Mirai_40s/Mirai-greip_flood21_40s.pcap
+
+  [3/5] tstat → procesando...
+  ✓ output dir: 2023_01_09_16_20.out
+
+  [4/5] Convirtiendo logs tstat a CSV...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTstat/TCP/Mirai/Mirai-greip_flood21_tcp.csv
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTstat/UDP/Mirai/Mirai-greip_flood21_udp.csv
+
+  [5/5] tshark → extrayendo TCP y UDP...
+  ✓ TCP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood21TCP_v2.txt
+  ✓ UDP → /media/miguel/Pen Miguel/ArchivosTshark_2/Txt/Mirai/Mirai-greip_flood21UDP_v2.txt
+
+  ✓✓ Mirai-greip_flood21 completado
+
+╔══════════════════════════════════════════════════════════╗
+║  COMPLETADO                                              ║
+║  Procesados:     72 / 76                                  ║
+║  No encontrados: 4                                        ║
+╠══════════════════════════════════════════════════════════╣
+║  Siguientes pasos:                                       ║
+║  1. python3 tshark_mirai_txt2csv.py                      ║
+║  2. python3 tstat_mirai_join.py                          ║
+╚══════════════════════════════════════════════════════════╝
